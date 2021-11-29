@@ -10,20 +10,20 @@ https://aiddatathon.com/
 - Initial time
   - add diverse index feature
 - after mid
-  - remove redundant and only 24 columns
+  - remove redundant and only 24 columns are used
   - adding some other features harm test score
 
 ## Models
 - LGB ensemble + Perceiver
-- add Perceiver output with nn_weight
+- add Perceiver output with a weight
 
 ### LGB
 - use bayes-opt
-- use 5 different seed and sum output
+- use 5 different seed and soft vote
  
 ### Perceiver
 - edit repo for our task [here](https://github.com/esceptico/perceiver-io)
-- it is not intended to tabular data, we get better results than other our baseline
+- though it is not intended to tabular data, we get better results than other our baseline
 
 ## ETC
 ### Models
