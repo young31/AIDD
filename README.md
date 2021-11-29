@@ -1,6 +1,7 @@
 # AIDD
 https://aiddatathon.com/
 - 1st prize winner
+- coworker @[History-Doctor](https://github.com/History-Doctor)
 - if available, entire codes will be distributed (without data)
 ![image](https://user-images.githubusercontent.com/50350197/143813919-5e731af2-0e11-4a5d-8490-ceab96d0df7b.png)
 
